@@ -1,7 +1,7 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: Template Book
+title: "QUADRIGA OERs: erstellen und gestalten mit Jupyter Book. QUADRIGA Open Educational Resources: Template"
 author: Hannes Schnaitter, Evgenia Samoilova, Lamia Islam
 logo: assets/logo.jpg
 copyright: "2024, QUADRIGA"
@@ -48,6 +48,7 @@ launch_buttons:
   notebook_interface: jupyterlab # remove if you don't want to use binder
   binderhub_url: https://mybinder.org # remove if you don't want to use binder
   colab_url: https://colab.research.google.com
+  jupyterhub_url: https://dev.jupyterhub.uni-potsdam.de
   thebe: true
 
 # Add GitHub buttons to your book
