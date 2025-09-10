@@ -66,6 +66,7 @@ chapters:
       - file: assessment/umsetzung
         sections:
           - file: assessment/umsetzung/jupyterquiz
+          - file: assessment/umsetzung/drag_drop
           - file: assessment/umsetzung/selbstkontrolle
           - file: assessment/umsetzung/test-driven_assessment
       - file: assessment/resümee
