@@ -17,14 +17,9 @@ Mit Ihren Rückmeldungen können wir unser interaktives Lehrbuch gezielt an Ihre
 ```
 ````
 
-```{admonition} Das fallstudienbasierte didaktische Konzept von QUADRIGA
-:class: lernziele
-
-1. Der forschungsgeleitete Ansatz der QUADRIGA OERs kann erläutert und der Beitrag von Fallstudien zur Datenkompetenzvermittlung erklärt werden.
-
-2. Die hierarchische Struktur der Lernziele in QUADRIGA OERs kann beschrieben und der Zusammenhang zwischen Fallstudienstruktur, Datenlebenszyklus und Lernzielen erläutert werden.
-
-3. Die zentralen didaktischen Komponenten einer QUADRIGA OER können identifiziert und deren Funktion im Lernprozess erklärt werden.
+```{include} ../präambel/lernziele.md
+:start-after: "<!-- START: Struktur und didaktisches Konzept -->"
+:end-before: "<!-- END: Struktur und didaktisches Konzept -->"
 ```
 
 Im Rahmen des QUADRIGA-Projekts werden Open Educational Resources (OERs) entwickelt, die auf realen Forschungsfragen und Fallstudien basieren. Die didaktische Konzeption dieser OERs {cite}`samoilova2024` folgt bestimmten Prinzipien, die in diesem Kapitel vorgestellt werden.

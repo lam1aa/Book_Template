@@ -1,4 +1,10 @@
 (assessment:einleitung)=
+
+```{include} ../präambel/lernziele.md
+:start-after: "<!-- START: Lernstandskontrolle (Assessment) -->"
+:end-before: "<!-- END: Lernstandskontrolle (Assessment) -->"
+```
+
 # Lernstandskontrolle (Assessment)
 
 In diesem Kapitel werden theoretische Überlegungen zum Assessment von

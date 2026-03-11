@@ -1,5 +1,11 @@
 (formatierung:einleitung)=
 
+```{include} ../präambel/lernziele.md
+:start-after: "<!-- START: Formatierungs- und Darstellungsmöglichkeiten -->"
+:end-before: "<!-- END: Formatierungs- und Darstellungsmöglichkeiten -->"
+```
+
+
 # Formatierungs- und Darstellungsmöglichkeiten
 
 Jupyter Book verarbeitet standardmäßig zwei Dateiformate –
